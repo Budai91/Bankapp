@@ -1,2 +1,2 @@
 # Bankapp
-kort och enkel "bankapp" gjort i Pyhton
+Kort och enkel "bankapp" gjord i Pyhton.
