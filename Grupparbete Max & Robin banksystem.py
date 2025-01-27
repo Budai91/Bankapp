@@ -1,15 +1,13 @@
 '''
 En bankapplikation där användaren kan göra olika val som uttag, insättning, visa saldo, ta lån och avsluta programmet.
 
-Mål/features:
-1: visa balans/konto #funktion KLART
-2: Sätta in pengar #funktion KLART
-3: Ta ut pengar #funktion KLART
-4: starta/stäng av appen KLART
-5: kan man övertrassera?
-6: Visa återstående saldo efter uttag. KLART
-7: färgad text för balans? KLART
-8: gör en exe fil av det? 
+Features:
+1: visa balans/konto #funktion
+2: Sätta in pengar #funktion
+3: Ta ut pengar #funktion
+4: starta/stäng av appen
+6: Visa återstående saldo efter uttag.
+7: färgad text för balans
 
 '''
 
